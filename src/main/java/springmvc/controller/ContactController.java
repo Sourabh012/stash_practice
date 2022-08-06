@@ -52,6 +52,14 @@ public class ContactController {
 //public String handleform(@RequestParam(name="email" , required = true) String userEmail ,
 //		@RequestParam("userName") String userName ,
 //		@RequestParam("password") String userPassword , Model model)
+////////////////////////////////////////////////
+
+//bug 1022
+
+////////////////////////////////////////////////
+
+
+
 //{
 //	
 //	User user=new User();
